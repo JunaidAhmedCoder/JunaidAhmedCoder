@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @JunaidAhmed
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Android Studio
-- 💞️ I’m looking to collaborate on NA
-- 📫 How to reach me 9494887445
+CP GEEK 💻
+✊GOAL ICPC
+📝 Working on various java projects.
+🌱 Learning CP and Android Development.
+👯 Would love to collaborate on intresting projects.
+🤔 Need help in web and App development.
+👀Looking for Competitive Programming Enthusiasts.
+⚡ Fun fact: I spend most of my time sleeping or programming.
 
 <!---
 JunaidAhmedCoder/JunaidAhmedCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
